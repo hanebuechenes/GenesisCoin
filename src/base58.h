@@ -278,7 +278,7 @@ public:
     enum
     {
         PUBKEY_ADDRESS = 38,
-        SCRIPT_ADDRESS = 38,
+        SCRIPT_ADDRESS = 39,
         PUBKEY_ADDRESS_TEST = 111,
         SCRIPT_ADDRESS_TEST = 196,
     };
